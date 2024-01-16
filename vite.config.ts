@@ -1,7 +1,3 @@
-/*
- * @Author: GAO GAO
- * @Date: 2023-11-22 00:01:42
- */
 import { fileURLToPath, URL } from "node:url";
 
 import { defineConfig } from "vite";
