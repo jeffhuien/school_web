@@ -1,0 +1,43 @@
+@import "./base.css";
+
+body {
+  @apply bg-gray-100;
+}
+
+.mySwiper {
+  width: 100%;
+}
+
+.swiper {
+  width: 100%;
+  height: 100%;
+}
+
+.swiper-slide {
+  text-align: center;
+  font-size: 18px;
+  background: #fff;
+  /* Center slide text vertically */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  // height: initial !important;
+}
+
+.swiper-slide img {
+  display: block;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+.swiper-pagination {
+  text-align: right !important;
+  @apply pr-5;
+  .swiper-pagination-bullet {
+    @apply w-2.5 h-2.5 bg-black border-2 border-white opacity-50; //背景色
+  }
+  .swiper-pagination-bullet-active {
+    //激活时背景色
+    @apply bg-white opacity-100;
+  }
+}
