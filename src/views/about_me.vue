@@ -8,7 +8,7 @@
   <div class="font-sans">
     <div class="xl:w-2/3 mx-auto xl:p-12 p-3">
       <div class="bg-white p-6 xl:pb-52 rounded-lg shadow-md min-h-[54vh]">
-        <h1 class="text-3xl font-semibold mb-4 text-sky-400">髙輝</h1>
+        <h1 class="text-3xl font-semibold mb-4 text-sky-400">xx</h1>
 
         <p class="text-gray-700 mb-4">热爱编程，专注于全栈开发，追求简洁而优雅的代码。</p>
 
@@ -25,10 +25,10 @@
 
           <div>
             <h2 class="text-xl font-semibold mb-2">我的资料卡</h2>
-            <p class="text-gray-700">系别： 电子信息系</p>
+            <p class="text-gray-700">系别： xx</p>
             <p class="text-gray-700">专业： 计算机应用技术</p>
-            <p class="text-gray-700">学号： 20211812213</p>
-            <p class="text-gray-700">班级： 计应212</p>
+            <p class="text-gray-700">学号： xx</p>
+            <p class="text-gray-700">班级： 计应21xx</p>
             <p class="text-gray-700">入学年份: 2021</p>
           </div>
         </div>
@@ -36,9 +36,9 @@
         <div class="mt-6">
           <h2 class="text-xl font-semibold mb-2">联系方式</h2>
           <ul class="list-disc list-inside text-gray-700">
-            <li>Email: jeffhui85@gmail.com</li>
-            <li>GitHub: <a href="http://www.github.com/jeffhuien" class="text-pink-400 underline decoration-dotted decoration-cyan-400 italic"> github.com/jeffhuien </a></li>
-            <li>Gitee: <a href="http://www.gitee.com/jeffhuien" class="text-pink-400 underline decoration-dotted decoration-cyan-400 italic">gitee.com/jeffhuien </a></li>
+            <li>Email: xx@gmail.com</li>
+            <li>GitHub: <a href="http://www.github.com/xx" class="text-pink-400 underline decoration-dotted decoration-cyan-400 italic"> github.com/xx </a></li>
+            <li>Gitee: <a href="http://www.gitee.com/xx" class="text-pink-400 underline decoration-dotted decoration-cyan-400 italic">gitee.com/xx </a></li>
             <!-- 添加其他联系方式 -->
           </ul>
         </div>

@@ -20,7 +20,7 @@ import Top from "./components/top.vue";
         class="bg-teal-700 text-center text-white py-2 flex items-center justify-center gap-2 text-xs"
       >
         <img src="/img/logo1.png" class="h-12 md:h-8 lg:h-10 max-sm:h-6" alt="" />
-        Copyright © 2023 计应212高辉
+        Copyright © 2023 计应21xx xx
       </footer>
     </div>
   </Suspense>
