@@ -2,11 +2,11 @@
  * @Author: GAO GAO
  * @Date: 2023-11-22 00:01:42
  */
-import { createRouter, createWebHistory } from "vue-router";
+import { createRouter, createWebHashHistory } from "vue-router";
 import home from "@/views/home.vue";
 
 const router = createRouter({
-  history: createWebHistory(import.meta.env.BASE_URL),
+  history: createWebHashHistory(import.meta.env.BASE_URL),
   routes: [
     {
       path: "/",
